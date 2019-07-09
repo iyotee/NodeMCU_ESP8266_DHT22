@@ -1,3 +1,16 @@
+/*************************************************
+**                                              ** 
+**  NodeMCU_ESP8266_DHT22 WebServer             ** 
+**                                              **
+**  Author : Jérémy Noverraz                    **
+**  Creation Date : 08.07.2019                  **
+**  Last Modification : 09.07.2019              **
+**                                              **
+**  Specification : Beautiful NodeMCU WebServer **
+**  for Temp and Humidity DHT22 Sensor          **
+**                                              **
+*************************************************/
+
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
 #include "DHT.h"
