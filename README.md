@@ -4,8 +4,19 @@ NodeMCU_ESP8266_DHT22 is a simple webserver
 
 ## Requirements
 
-DHT sensor library by Adafruit https://github.com/adafruit/DHT-sensor-library 
-Adafruit Unified Sensor https://github.com/adafruit/Adafruit_Sensor
+1/ DHT sensor library by Adafruit https://github.com/adafruit/DHT-sensor-library 
+
+
+2/ Adafruit Unified Sensor https://github.com/adafruit/Adafruit_Sensor
+
+
+3/ ESP8266WebServer https://github.com/esp8266/Arduino/tree/master/libraries/ESP8266WebServer
+
+
+All of that librairies can directly be download from the Arduino 'Libraries Manager' [CTRL+MAJ+I]
+
+
+
 
 ## Usage
 
